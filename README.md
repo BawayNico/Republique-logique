@@ -1,4 +1,4 @@
-# R-publique-logique
+# Republique-logique
 Système politique parallèle et communautaire
 
 
